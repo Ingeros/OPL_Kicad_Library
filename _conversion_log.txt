@@ -1,0 +1,75 @@
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:20:35 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:20:35 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:22:33 LOG **********#
+Missing Prefix Part =''				H8-2.54					Seeed-Connector -2016		M
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:22:33 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:23:36 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:23:36 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:23:58 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:23:58 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:24:28 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:24:28 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:24:55 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:24:55 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:26:22 LOG **********#
+Missing Prefix Part =''				SSOP24-0.65-8.9X5.3MM					Seeed-IC-2016		M
+Missing Prefix Part =''				SOT-23-5					Seeed-IC-2016		M
+Missing Prefix Part =''				SOT-23					Seeed-IC-2016		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:26:22 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:27:09 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:27:09 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:28:17 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:28:17 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:28:41 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:28:41 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:29:05 LOG **********#
+Missing Prefix Part =''				R0805					Seeed-Resistor-2016		M
+Missing Prefix Part =''				R0402					Seeed-Resistor-2016		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:29:05 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:29:32 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:29:32 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:29:55 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:29:55 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:30:25 LOG **********#
+Missing Prefix Part =''				SOT-23					Seeed-Transistor-2016		M
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.0 28-03-2016 :15:30:25 LOG **********#
+
